@@ -20,6 +20,9 @@ Personal collection of useful IT links — grouped by topic, sorted by usefulnes
 
 ## 🤖 AI & Machine Learning
 
+- ![icon](https://www.google.com/s2/favicons?domain=claude.ai&sz=16) [Claude](https://claude.ai/) — Anthropic's AI assistant, available via web and API.
+- ![icon](https://www.google.com/s2/favicons?domain=anthropic.skilljar.com&sz=16) [Anthropic Courses](https://anthropic.skilljar.com/) — Official course catalog covering Claude, the API, MCP, and AI literacy.
+
 ---
 
 ## ⚛️ Frontend
