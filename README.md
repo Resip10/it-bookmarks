@@ -34,3 +34,5 @@ Personal collection of useful IT links — grouped by topic, sorted by usefulnes
 ---
 
 ## 🛠️ Tools & Productivity
+
+- ![icon](https://www.google.com/s2/favicons?domain=warp.dev&sz=16) [Warp](https://www.warp.dev/) — Modern AI-powered terminal with built-in agents and collaborative workflows.
