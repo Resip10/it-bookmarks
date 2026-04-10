@@ -26,7 +26,7 @@ If the user includes their own note or opinion about the link, weave it into the
 
 - Description: one sentence max, value-focused — *why* this is useful, not just what it is
 - Start with a capital letter, end with a period
-- For must-read / starred items, add ⭐ before the icon
+- For starred items, add ⭐ at the start of the description (after the `—`)
 
 ### Sub-resource (rare)
 
@@ -85,4 +85,4 @@ Within each section, products come before repos. Append new items to the **end**
 
 - Don't create files other than README.md (no separate category files)
 - Don't reorder existing entries without being asked
-- There is no `## ⭐ Must-Read` section — starred items use the ⭐ prefix in their regular section instead
+- There is no `## ⭐ Must-Read` section — starred items use ⭐ at the start of their description instead
