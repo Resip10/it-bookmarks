@@ -7,6 +7,7 @@ Personal collection of useful IT links — grouped by topic, sorted by usefulnes
 - [⭐ Must-Read](#-must-read)
 - [🤖 AI & Agents](#-ai--agents)
 - [⚛️ Frontend](#️-frontend)
+- [🎓 Interview Prep](#-interview-prep)
 - [🎨 Design & UI](#-design--ui)
 - [🛠️ Tools & Productivity](#️-tools--productivity)
 
@@ -32,9 +33,22 @@ Personal collection of useful IT links — grouped by topic, sorted by usefulnes
 
 ## ⚛️ Frontend
 
+- ![icon](https://www.google.com/s2/favicons?domain=caniuse.com&sz=16) [Can I Use](https://caniuse.com/) — Browser compatibility tables for HTML, CSS, and JavaScript features, essential for cross-browser development.
+
+---
+
+## 🎓 Interview Prep
+
+- ![icon](https://www.google.com/s2/favicons?domain=greatfrontend.com&sz=16) [GreatFrontEnd](https://www.greatfrontend.com/) — Interview prep platform for front-end engineers with coding questions, system design guides, and in-browser practice covering UI, JavaScript, and company-specific tracks.
+  - ↳ [Tech Interview Handbook](https://www.techinterviewhandbook.org/) — Curated guide covering the full software engineering interview process — resume, coding, behavioral, and negotiation.
+  - ↳ [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) — Focused guide on front-end-specific interview topics — HTML, CSS, JavaScript, and common trivia questions.
+- ![icon](https://www.google.com/s2/favicons?domain=leetcode.com&sz=16) [LeetCode](https://leetcode.com/) — Platform for practicing coding interview problems across algorithms, data structures, and system design, with company-tagged questions and contest modes.
+
 ---
 
 ## 🎨 Design & UI
+
+- ![icon](https://www.google.com/s2/favicons?domain=dribbble.com&sz=16) [Dribbble](https://dribbble.com/) — Design inspiration platform where designers share UI work, illustrations, and visual concepts.
 
 ---
 

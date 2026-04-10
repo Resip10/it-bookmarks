@@ -46,6 +46,7 @@ Emoji prefix + descriptive title. Established sections:
 | Must-read picks | `## ⭐ Must-Read` |
 | AI & Agents | `## 🤖 AI & Agents` |
 | Frontend | `## ⚛️ Frontend` |
+| Interview Prep | `## 🎓 Interview Prep` |
 | Design & UI | `## 🎨 Design & UI` |
 | Tools & Productivity | `## 🛠️ Tools & Productivity` |
 
