@@ -41,14 +41,14 @@ Indented directly below the parent, prefixed with `↳`:
 
 Emoji prefix + descriptive title. Established sections:
 
-| Section | Header |
-|---|---|
-| Must-read picks | `## ⭐ Must-Read` |
-| AI & Agents | `## 🤖 AI & Agents` |
-| Frontend | `## ⚛️ Frontend` |
-| Interview Prep | `## 🎓 Interview Prep` |
-| Design & UI | `## 🎨 Design & UI` |
-| Tools & Productivity | `## 🛠️ Tools & Productivity` |
+| Section | Header | What belongs here |
+|---|---|---|
+| AI & Agents | `## 🤖 AI & Agents` | AI models, assistants, agent frameworks, MCP servers |
+| Tools & Productivity | `## 🛠️ Tools & Productivity` | Dev tools, editors, IDEs, terminals, project management |
+| Backend & Cloud | `## ☁️ Backend & Cloud` | Hosting, databases, cloud platforms, infrastructure |
+| Frontend | `## ⚛️ Frontend` | UI libraries, browser APIs, CSS tools |
+| Design & UI | `## 🎨 Design & UI` | Design tools, inspiration, UI resources |
+| Interview Prep | `## 🎓 Interview Prep` | Coding practice, interview guides |
 
 When proposing a new section, suggest an emoji that fits the topic. Confirm with the user before creating it.
 
@@ -85,4 +85,4 @@ Within each section, products come before repos. Append new items to the **end**
 
 - Don't create files other than README.md (no separate category files)
 - Don't reorder existing entries without being asked
-- Don't add items to `## ⭐ Must-Read` unless the user explicitly flags them as starred or must-read
+- There is no `## ⭐ Must-Read` section — starred items use the ⭐ prefix in their regular section instead
