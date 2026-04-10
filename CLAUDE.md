@@ -44,7 +44,7 @@ Emoji prefix + descriptive title. Established sections:
 | Section | Header |
 |---|---|
 | Must-read picks | `## ⭐ Must-Read` |
-| AI & Machine Learning | `## 🤖 AI & Machine Learning` |
+| AI & Agents | `## 🤖 AI & Agents` |
 | Frontend | `## ⚛️ Frontend` |
 | Design & UI | `## 🎨 Design & UI` |
 | Tools & Productivity | `## 🛠️ Tools & Productivity` |
@@ -62,7 +62,7 @@ Lives at the top of the README under the intro line. Update it whenever a new se
 When presenting a drafted entry, use this format:
 
 ```
-**Section:** ## 🤖 AI & Machine Learning
+**Section:** ## 🤖 AI & Agents
 
 **Entry:**
 - ![icon](favicon-url) [Name](url) — Description.
@@ -76,7 +76,7 @@ If proposing a new section, show the full section header and ask the user to con
 
 ## Sorting
 
-Append new items to the **end** of their section. The user reorders manually.
+Within each section, products come before repos. Append new items to the **end** of their group (products or repos). The user reorders manually beyond that.
 
 ---
 
