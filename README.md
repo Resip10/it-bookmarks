@@ -33,6 +33,7 @@ Personal collection of useful IT links — grouped by topic, sorted by usefulnes
 - ![icon](https://www.google.com/s2/favicons?domain=linear.app&sz=16) [Linear](https://linear.app/) — Streamlined issue tracking and project management built for product teams.
 - ![icon](https://www.google.com/s2/favicons?domain=cursor.com&sz=16) [Cursor](https://cursor.com/) — ⭐ AI-powered code editor with intelligent completion and autonomous agents that can build features end-to-end.
 - ![icon](https://www.google.com/s2/favicons?domain=antigravity.google&sz=16) [Google Antigravity](https://antigravity.google/) — Agent-first IDE by Google that lets you dispatch multiple autonomous AI agents across your editor, terminal, and browser simultaneously.
+- ![icon](https://www.google.com/s2/favicons?domain=superset.sh&sz=16) [Superset](https://superset.sh/) — Orchestration platform for running 10+ parallel AI coding agents (Claude Code, Cursor, etc.) in isolated Git worktrees from a single interface.
 
 ---
 
