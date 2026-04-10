@@ -5,7 +5,7 @@ Personal collection of useful IT links — grouped by topic, sorted by usefulnes
 ## Table of Contents
 
 - [⭐ Must-Read](#-must-read)
-- [🤖 AI & Machine Learning](#-ai--machine-learning)
+- [🤖 AI & Agents](#-ai--agents)
 - [⚛️ Frontend](#️-frontend)
 - [🎨 Design & UI](#-design--ui)
 - [🛠️ Tools & Productivity](#️-tools--productivity)
@@ -18,10 +18,15 @@ Personal collection of useful IT links — grouped by topic, sorted by usefulnes
 
 ---
 
-## 🤖 AI & Machine Learning
+## 🤖 AI & Agents
 
 - ![icon](https://www.google.com/s2/favicons?domain=claude.ai&sz=16) [Claude](https://claude.ai/) — Anthropic's AI assistant, available via web and API.
 - ![icon](https://www.google.com/s2/favicons?domain=anthropic.skilljar.com&sz=16) [Anthropic Courses](https://anthropic.skilljar.com/) — Official course catalog covering Claude, the API, MCP, and AI literacy.
+- ![icon](https://www.google.com/s2/favicons?domain=myclaw.ai&sz=16) [MyClaw](https://myclaw.ai/) — Managed cloud hosting for OpenClaw (open-source AI assistant) — private, always-on instances with zero DevOps.
+- ![icon](https://www.google.com/s2/favicons?domain=github.com&sz=16) [awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) — Curated collection of 100+ specialized Claude Code subagents covering a wide range of development use cases.
+- ![icon](https://www.google.com/s2/favicons?domain=github.com&sz=16) [agency-agents](https://github.com/msitarzewski/agency-agents) — A complete AI agency in a repo — specialized agents with distinct personalities, processes, and deliverables covering frontend, community, content, and more.
+- ![icon](https://www.google.com/s2/favicons?domain=github.com&sz=16) [superpowers](https://github.com/obra/superpowers) — Agentic skills framework that gives coding agents a structured workflow — design, planning, TDD, and code review — as composable plugins for Claude Code, Cursor, and others.
+- ![icon](https://www.google.com/s2/favicons?domain=github.com&sz=16) [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Official MCP server that exposes Chrome DevTools to coding agents, enabling browser inspection and debugging from AI tools.
 
 ---
 
