@@ -77,7 +77,14 @@ If proposing a new section, show the full section header and ask the user to con
 
 ## Sorting
 
-Within each section, products come before repos. Append new items to the **end** of their group (products or repos). The user reorders manually beyond that.
+Within each section, items are ordered in four groups:
+
+1. **Starred products** — products with ⭐
+2. **Other products** — products without ⭐
+3. **Starred repos** — GitHub/repo links with ⭐
+4. **Other repos** — GitHub/repo links without ⭐
+
+Append new items to the **end** of their group. The user reorders manually within groups.
 
 ---
 
