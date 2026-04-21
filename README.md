@@ -34,6 +34,7 @@ Personal collection of useful IT links — grouped by topic, sorted by usefulnes
 ## 🛠️ Tools & Productivity
 
 - ![icon](https://www.google.com/s2/favicons?domain=warp.dev&sz=16) [Warp](https://www.warp.dev/) — ⭐ Modern AI-powered terminal with built-in agents and collaborative workflows.
+  - ↳ [My referral link](https://app.warp.dev/referral/DX8XMNL) — Sign up through this to give me referral perks.
 - ![icon](https://www.google.com/s2/favicons?domain=cursor.com&sz=16) [Cursor](https://cursor.com/) — ⭐ AI-powered code editor with intelligent completion and autonomous agents that can build features end-to-end.
 - ![icon](https://www.google.com/s2/favicons?domain=linear.app&sz=16) [Linear](https://linear.app/) — Streamlined issue tracking and project management built for product teams.
 - ![icon](https://www.google.com/s2/favicons?domain=antigravity.google&sz=16) [Google Antigravity](https://antigravity.google/) — Agent-first IDE by Google that lets you dispatch multiple autonomous AI agents across your editor, terminal, and browser simultaneously.
