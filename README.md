@@ -53,6 +53,7 @@ Personal collection of useful IT links — grouped by topic, sorted by usefulnes
 ## ⚛️ Frontend
 
 - ![icon](https://www.google.com/s2/favicons?domain=caniuse.com&sz=16) [Can I Use](https://caniuse.com/) — Browser compatibility tables for HTML, CSS, and JavaScript features, essential for cross-browser development.
+- ![icon](https://www.google.com/s2/favicons?domain=ui.shadcn.com&sz=16) [shadcn/ui](https://ui.shadcn.com/) — Copy-paste React component library built on Radix UI and Tailwind CSS — components live in your codebase, not a dependency.
 - ![icon](https://www.google.com/s2/favicons?domain=playwright.dev&sz=16) [Playwright](https://github.com/microsoft/playwright) — Cross-browser end-to-end testing framework with CLI support for Chromium, Firefox, and WebKit via a single API.
 
 ---
