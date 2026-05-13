@@ -28,6 +28,7 @@ Personal collection of useful IT links — grouped by topic, sorted by usefulnes
 - ![icon](https://www.google.com/s2/favicons?domain=github.com&sz=16) [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Official MCP server that exposes Chrome DevTools to coding agents, enabling browser inspection and debugging from AI tools.
 - ![icon](https://www.google.com/s2/favicons?domain=github.com&sz=16) [Context7](https://github.com/upstash/context7) — MCP server that injects up-to-date, version-specific library docs directly into your AI coding assistant's prompt, eliminating hallucinated APIs.
 - ![icon](https://www.google.com/s2/favicons?domain=github.com&sz=16) [caveman](https://github.com/JuliusBrussee/caveman) — Claude Code skill that cuts token usage by ~65% and triples latency by stripping conversational filler while keeping full technical accuracy.
+- ![icon](https://www.google.com/s2/favicons?domain=github.com&sz=16) [mattpocock/skills](https://github.com/mattpocock/skills) — Matt Pocock's composable agent skills for real engineering work — small, model-agnostic, and designed to keep you in control.
 
 ---
 
